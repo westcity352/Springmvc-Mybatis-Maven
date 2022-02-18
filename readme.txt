@@ -1,3 +1,3 @@
-数据库文件在src文件中，使用的mysql
+数据库文件在sql文件中，使用的mysql
 
 将整个文件夹import进idea，用tomcat配置运行即可
