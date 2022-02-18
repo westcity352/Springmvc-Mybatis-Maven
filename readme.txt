@@ -1,2 +1,3 @@
-Git is a version control system.
-Git is free software.
+数据库文件在src文件中，使用的mysql
+
+将整个文件夹import进idea，用tomcat配置运行即可
